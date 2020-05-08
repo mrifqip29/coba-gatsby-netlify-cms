@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sekolah Cendikia Baznas`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Admin SCB`,
+      summary: `Merupakan seorang admin yang mengurusi perilah postingan pada web ini`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Website Resmi Sekolah Cendikia Baznas`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `rifqionky`,
     },
   },
   plugins: [
