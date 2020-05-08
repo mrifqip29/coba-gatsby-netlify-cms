@@ -3,7 +3,7 @@ module.exports = {
     title: `Sekolah Cendikia Baznas`,
     author: {
       name: `Admin SCB`,
-      summary: `Merupakan seorang admin yang mengurusi perilah postingan pada web ini`,
+      summary: `yang merupakan seorang admin yang mengurusi perihal postingan pada web ini`,
     },
     description: `Website Resmi Sekolah Cendikia Baznas`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,

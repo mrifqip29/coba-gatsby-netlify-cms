@@ -60,7 +60,7 @@ const Bio = () => {
         Ditulis oleh <strong>{author.name}</strong> {author.summary}
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Silahkan follow media sosial kami!
+          . Silahkan follow media sosial kami!
         </a>
       </p>
     </div>
